@@ -2,9 +2,9 @@
 <h3 align="center">React Developer | Front End Web Developer | Mern stack web developer</h3>
 <br>
 <p>I'm a front-end web developer who is passionate about creating websites without errors and ensuring client satisfaction. I love learning and sharing my knowledge with others. Solving real-world problems is my jam. I work strategically and always have the end goal in mind. Over the years, I have developed numerous web applications. I take pride in delivering quality work and maintaining excellent communication with clients.</p>
-- 🌱 I’m currently learning  <h5>Redux, Typescript, nextjs</h5> <br>
+- 🌱 <p>I’m currently learning  <h5>Redux, Typescript, nextjs</h5></p> <br>
 - 💬 Ask me about <h5>Web Solutions</h5> <br>
-- 📫 How to reach me: <a>dev.biplabmistry@gmail.com <br></a>
+- 📫 How to reach me: dev.biplabmistry@gmail.com
 - ⚡ Fun fact: <h5>I Think i'm funny too :) </h5>
 
 
