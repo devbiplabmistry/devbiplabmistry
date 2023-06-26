@@ -1,4 +1,5 @@
-<h1 class="text-center">Hi , I'm Biplab</h1>
+<h1 align="center">Hi 👋, I'm Biplab</h1>
+<h3 align="center">React Developer | Front End Web Developer | Mern stack web developer</h3>
 <br>🌱 I’m currently learning Redux, Typescript, nextjs<br>👨‍💻 All of my projects are available at <br>💬 Ask me about Web Solutions<br>📫 How to reach me dev.biplabmistry@gmail.com<br>⚡ Fun fact I Think i'm funny too :)
 
 
