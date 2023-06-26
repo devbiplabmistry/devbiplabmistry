@@ -7,7 +7,6 @@
 
 ## 🌐 Connect with me::
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mistrybiplab/) 
-
 ![[git](https://img.shields.io/badge/git-%23E34F26.svg?style=for-the-badge&logo=git&logoColor=whitee)](https://www.linkedin.com/in/mistrybiplab/) 
 
 
