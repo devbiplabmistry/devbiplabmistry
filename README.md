@@ -7,7 +7,7 @@
 
 ## 🌐 Connect with me::
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mistrybiplab/) 
-![git](https://img.shields.io/badge/git-%23E34F26.svg?style=for-the-badge&logo=git&logoColor=white)]
+![git](https://img.shields.io/badge/git-%23E34F26.svg?style=for-the-badge&logo=git&logoColor=white)](https://www.linkedin.com/in/mistrybiplab/) 
 
 
 # <img align="center" width="55px" height="55px" src="https://lordicon.com/icons/wired/outline/742-multimedia-code-1.gif"></img>  Technologies that I know:
