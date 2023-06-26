@@ -7,9 +7,8 @@
 
 ## 🌐 Connect with me::
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mistrybiplab/) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/devbiplabmistry)
-
 [![github](https://img.shields.io/badge/github-%230077B5.svg?logo=github&logoColor=white)]
+(https://github.com/https://github.com/devbiplabmistry)
 # <img align="center" width="55px" height="55px" src="https://lordicon.com/icons/wired/outline/742-multimedia-code-1.gif"></img>  Technologies that I know:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
