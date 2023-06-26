@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Biplab</h1>
+<h1 align="center">Hi <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcliply.co%2Fclip%2Fwaving-hand%2F&psig=AOvVaw2-Qa4AKE6hX4tJ7bL51S8u&ust=1687842198738000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLjq5qeU4P8CFQAAAAAdAAAAABAE"></img>, I'm Biplab</h1>
 <h3 align="center">React Developer | Front End Web Developer | Mern stack web developer</h3>
 <br>
 <p>I'm a front-end web developer who is passionate about creating websites without errors and ensuring client satisfaction. I love learning and sharing my knowledge with others. Solving real-world problems is my jam. I work strategically and always have the end goal in mind. Over the years, I have developed numerous web applications. I take pride in delivering quality work and maintaining excellent communication with clients.</p>
