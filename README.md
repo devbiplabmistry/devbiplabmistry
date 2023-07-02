@@ -2,11 +2,12 @@
 <h3 align="center">React Developer | Front End Web Developer | Mern stack web developer</h3>
 <h1> 🚀 About Me</h1>
 <p>I'm a front-end web developer who is passionate about creating websites without errors and ensuring client satisfaction. I love learning and sharing my knowledge with others. Solving real-world problems is my jam. I work strategically and always have the end goal in mind. Over the years, I have developed numerous web applications. I take pride in delivering quality work and maintaining excellent communication with clients.</p>
-- 🌱 I’m currently learning: Redux, Typescript, nextjs <br>
-- 👨‍💻 All of my projects are available at: [Click Here](https://transcendent-manatee-bff2dd.netlify.app/) <br>
-- 💬 Ask me about: Web Solutions <br>
-- 📫 How to reach me: [dev.biplabmistry@gmail.com](mailto:dev.biplabmistry@gmail.com) <br>
+- 🌱 I’m currently learning: Redux, Typescript, nextjs<br>
+- 👨‍💻 All of my projects are available at: [Click Here](https://transcendent-manatee-bff2dd.netlify.app/)<br>
+- 💬 Ask me about: Web Solutions<br>
+- 📫 How to reach me: [dev.biplabmistry@gmail.com](mailto:dev.biplabmistry@gmail.com)<br>
 - ⚡ Fun fact: I think I'm funny too :)
+
 
 
 ## 🌐 Connect with me:
