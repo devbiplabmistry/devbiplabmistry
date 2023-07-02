@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning: Redux, Typescript, nextjs<br>
 - 👨‍💻 All of my projects are available at: https://transcendent-manatee-bff2dd.netlify.app/<br>
 - 💬 Ask me about: Web Solutions<br>
-- 📫 How to reach me: dev.biplabmistry@gmail.com<br>
+- 📫 How to reach me: mailto:dev.biplabmistry@gmail.com<br>
 - ⚡ Fun fact: I think I'm funny too :)
 
 
